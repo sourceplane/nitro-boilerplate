@@ -7,5 +7,6 @@ folder is the adoption; the merge creates the epic in the workspace.
 
 | Epic | Cluster | Status | What it is |
 |------|---------|--------|------------|
+| [`nitro-boilerplate/`](./nitro-boilerplate/) | **NI** | In progress (NI0) | Vercel's Nitro starter, its route kept, built by Nitro's own cloudflare_module preset into one Cloudflare Worker — and an Orun baseline that instantiates it in one landing (NI2) |
 
 As-built ≠ intent: what shipped lives in each epic's `IMPLEMENTATION-STATUS.md`.
