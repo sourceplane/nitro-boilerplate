@@ -9,7 +9,7 @@ makes a copy of it somebody else's app in one landing.**
 
 | | |
 |---|---|
-| Status | In progress — NI1 on main: the site runs on Workers |
+| Status | ✅ Shipped (`baseline-v1`) — proven offline in Baseline CI; not yet live (risk NI-A) |
 | Upstream | [vercel/examples `framework-boilerplates/nitro`](https://github.com/vercel/examples/tree/main/framework-boilerplates/nitro) (MIT), at `de86723` (2026-10-16) |
 | Reference | [express-api](https://github.com/sourceplane/express-api) — the same plain Worker, scaffolding, tests and bootstrap; [nuxt-boilerplate](https://github.com/sourceplane/nuxt-boilerplate) — the same Nitro preset |
 | Key | `NI` |

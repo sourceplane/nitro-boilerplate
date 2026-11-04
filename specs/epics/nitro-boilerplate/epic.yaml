@@ -9,7 +9,7 @@ metadata:
 spec:
   title: "Vercel's Nitro starter on Cloudflare Workers"
   summary: "Vercel's Nitro starter — a Nitro server whose one file-based route answers with the template's welcome page — runs as one Cloudflare Worker built by Nitro's own cloudflare_module preset, beside a health route, inside the Cirrus baseline's repository conventions, and becomes an Orun baseline that takes a new Nitro server from nothing to live on stage and prod in one landing."
-  state: started
+  state: completed
   milestones:
     - name: "NI0 — the spec"
       exitCriteria:
