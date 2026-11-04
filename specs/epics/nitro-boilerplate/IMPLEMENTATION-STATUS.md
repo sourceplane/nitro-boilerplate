@@ -4,7 +4,7 @@
 |---|---|---|
 | NI0 — the spec | ✅ | NI-1 |
 | NI1 — Nitro on Workers | ✅ | NI-2 |
-| NI2 — a baseline | planned | NI-3 |
+| NI2 — a baseline | ✅ | NI-3, tagged `baseline-v1` |
 
 ## Departures from the upstream starter
 
